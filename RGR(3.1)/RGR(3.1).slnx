@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="RGR(3.2).vcxproj" />
+  <Project Path="RGR(3.1).vcxproj" />
 </Solution>
